@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b18nu4oVB69rxrkYqN5xV0KnXwWE7xQovXtdU7tE/Gu56XLlqrFAnl1LJDI9CUDuQCgSlk3jajtdJ3UNCbrdkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vlaes\\source\\repos\\Design Patterns\\SOLID Principles\\SOLID Principles.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vlaes\\.nuget\\packages\\morelinq\\3.4.2\\morelinq.3.4.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "x2Kp79sB9BEoSYxNllCe8rUuR1eR7sV1UmvjL+siqtgGr0gMzGk5VyDeVfh8GfL+Tyg+YF5ogTPSmgkZPCvt0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vlaes\\source\\repos\\Design Patterns\\Gamma Categorization Structural Patterns\\Gamma Categorization Structural Patterns.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vlaes\\.nuget\\packages\\autofac\\7.1.0\\autofac.7.1.0.nupkg.sha512",
+    "C:\\Users\\vlaes\\.nuget\\packages\\jetbrains.dotmemoryunit\\3.2.20220510\\jetbrains.dotmemoryunit.3.2.20220510.nupkg.sha512",
+    "C:\\Users\\vlaes\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\vlaes\\.nuget\\packages\\morelinq\\3.4.2\\morelinq.3.4.2.nupkg.sha512",
+    "C:\\Users\\vlaes\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\vlaes\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\vlaes\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

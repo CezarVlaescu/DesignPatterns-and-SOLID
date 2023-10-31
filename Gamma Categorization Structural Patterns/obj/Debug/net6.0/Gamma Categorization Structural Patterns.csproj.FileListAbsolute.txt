@@ -1,0 +1,5 @@
+C:\Users\vlaes\source\repos\Design Patterns\Gamma Categorization Structural Patterns\obj\Debug\net6.0\Gamma Categorization Structural Patterns.csproj.AssemblyReference.cache
+C:\Users\vlaes\source\repos\Design Patterns\Gamma Categorization Structural Patterns\obj\Debug\net6.0\Gamma Categorization Structural Patterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlaes\source\repos\Design Patterns\Gamma Categorization Structural Patterns\obj\Debug\net6.0\Gamma Categorization Structural Patterns.AssemblyInfoInputs.cache
+C:\Users\vlaes\source\repos\Design Patterns\Gamma Categorization Structural Patterns\obj\Debug\net6.0\Gamma Categorization Structural Patterns.AssemblyInfo.cs
+C:\Users\vlaes\source\repos\Design Patterns\Gamma Categorization Structural Patterns\obj\Debug\net6.0\Gamma Categorization Structural Patterns.csproj.CoreCompileInputs.cache

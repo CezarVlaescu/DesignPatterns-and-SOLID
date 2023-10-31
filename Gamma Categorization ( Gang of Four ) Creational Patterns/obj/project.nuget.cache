@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "i1P8a52VtlQHMum6IaHyVfF3irTdRdJ/oAp+Ik7yGcrQm/6uhtogTEIMAAdPDdxzDMWFMDwYqKZvSNEXc7s7iQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vlaes\\source\\repos\\Design Patterns\\Gamma Categorization ( Gang of Four ) Creational Patterns\\Gamma Categorization Creational Patterns.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vlaes\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\vlaes\\.nuget\\packages\\morelinq\\3.4.2\\morelinq.3.4.2.nupkg.sha512",
+    "C:\\Users\\vlaes\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\vlaes\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}
